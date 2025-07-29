@@ -1,9 +1,9 @@
 # Lab 1 Summary
 
 ## Environment Setup
-- **GCP Project ID**: superstore-ai-599
-- **GitHub Repository**: [https://github.com/erjonb19/superstore-dive](https://github.com/erjonb19/superstore-dive)
-- **Data Lake Bucket**: superstore-datalake-erjon
+- **GCP Project ID**: mgmt599-ebrucaj-lab1
+- **GitHub Repository**: https://github.com/erjonbrucajpurdue19/classResources
+- **Data Lake Bucket**: mgmt599-ebrucaj-data-lake
 
 ## Key Findings
 1. **Discounts above 30% consistently result in negative profits and margins**, especially at 50% and 80% discount levels.
